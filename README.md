@@ -3,7 +3,7 @@
 1. [x] [Стандарты и рабочее окружение](workspace)
 1. [x] [Модули и Webpack](modules)
 1. [n] [Платформы: браузер vs Node.js](platforms)
-1. [u] [Unit-тестирование](test-ci)
+1. [x] [Unit-тестирование](test-ci)
 1. [n] [Прототипы, конструкторы, классы и наследование](oop)
 1. [n] [Object, Reflection и Proxy](advanced)
 1. [n] [Регулярные выражения](regex)
