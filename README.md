@@ -9,6 +9,6 @@
 1. [n] [Регулярные выражения](regex)
 1. [u] [Контейнеры](containers)
 1. [n] [ArrayBuffer](arraybuffer)
-1. [n] [Promises, async/await, timers & event loop](async)
+1. [x] [Promises, async/await, timers & event loop](async)
 1. [u] [Символы, итераторы, генераторы](symbols-iterators-generators)
 1. [u] [TypeScript](typescript)
