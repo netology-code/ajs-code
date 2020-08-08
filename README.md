@@ -10,5 +10,5 @@
 1. [x] [Контейнеры](containers)
 1. [x] [ArrayBuffer](arraybuffer)
 1. [x] [Promises, async/await, timers & event loop](async)
-1. [u] [Символы, итераторы, генераторы](symbols-iterators-generators)
-1. [u] [TypeScript](typescript)
+1. [x] [Символы, итераторы, генераторы](symbols-iterators-generators)
+1. [x] [TypeScript](typescript)
