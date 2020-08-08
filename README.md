@@ -6,7 +6,7 @@
 1. [x] [Unit-тестирование](test-ci)
 1. [x] [Прототипы, конструкторы, классы и наследование](oop)
 1. [x] [Object, Reflection и Proxy](advanced)
-1. [n] [Регулярные выражения](regex)
+1. [x] [Регулярные выражения](regex)
 1. [u] [Контейнеры](containers)
 1. [n] [ArrayBuffer](arraybuffer)
 1. [x] [Promises, async/await, timers & event loop](async)
